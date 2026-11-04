@@ -1,0 +1,37 @@
+# Credentials and secrets must never be committed.
+credentials.json
+token.json
+client_secret*.json
+.env
+.env.*
+!.env.example
+
+# Local deduplication and recovery state.
+state/
+*.state.json
+bot_state.json
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editors and operating systems.
+.idea/
+.vscode/
+.DS_Store
+
+# Private recordings and local evidence; publish reviewed exports explicitly.
+private/
+recordings/
+*.webm
+*.mp4
