@@ -6,7 +6,7 @@ Turn a burst of customer emails into one reviewable reply. Keep human handoff, o
 
 [Recording guide](docs/DEMO.md) · [Setup guide](docs/SETUP.md) · [Test scenarios](tests/test_cases.md)
 
-**Portfolio demo:** [Screenshots](docs/MEDIA.md) · [Live validation](docs/LIVE_VALIDATION.md) · [Portfolio copy](docs/UPWORK.md)
+**Portfolio demo:** [Screenshots](docs/MEDIA.md) · [Live validation](docs/LIVE_VALIDATION.md)
 
 ![Three incoming emails, one draft](docs/media/01-three-emails-one-draft.png)
 
