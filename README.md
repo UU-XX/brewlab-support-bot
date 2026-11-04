@@ -8,7 +8,7 @@ Turn a burst of customer emails into one reviewable reply. Keep human handoff, o
 
 **Evidence status:** automated tests use simulated providers. A live Gmail/DeepSeek recording is pending test-account authorization. No live accuracy or time-saving claims are made.
 
-Verified locally on Python 3.12: **147 regression tests and 10 offline scenarios passed**. GitHub Actions also runs the suite on Python 3.11 and 3.12.
+Verified locally on Python 3.12: **147 regression tests and 10 offline scenarios passed**. A separate live DeepSeek check with three fictional questions returned one English pricing and shipping answer. Gmail and Sheets recording is still pending authorization. GitHub Actions has not been enabled for this release.
 
 A small coffee equipment shop gets three emails from one shopper about a grinder, its price and shipping. Answering each email immediately creates three replies and can miss the shopper’s final question. BrewLab waits for two minutes of silence, reads the conversation and prepares one reply in the customer’s language. A support lead can review drafts, change operating hours and inspect individual message outcomes in Google Sheets.
 
