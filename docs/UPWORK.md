@@ -1,30 +1,29 @@
 # Upwork Portfolio Copy
 
 ## Project title
+AI Email Support Bot | Gmail, DeepSeek & Google Sheets
 
-AI Email Support Bot — Gmail, DeepSeek and Google Sheets
-
-## My role
-
-Python developer — workflow design, API integration, recovery logic and automated testing.
+## Role
+Python automation developer — workflow design, API integration and testing.
 
 ## Project description
+BrewLab is a fictional coffee-store demo built with Python, Gmail, DeepSeek and Google Sheets. It batches rapid follow-up emails into one knowledge-grounded draft, routes human requests with the original email attached, and logs each incoming message. A Sheet controls modes, schedules and escalation rules. Controlled live testing produced one draft from three emails, one internal handoff and four audit rows. Includes 147 regression tests, 10 offline scenarios and a redacted English screenshot walkthrough.
 
-BrewLab is a fictional coffee-equipment store used to demonstrate an AI-assisted email support workflow.
+## Five skills
+Python; API Integration; Workflow Automation; Gmail API; Google Sheets.
 
-The bot groups rapid follow-up emails from the same customer, reads recent conversation context and prepares one knowledge-grounded draft. Human requests and unsupported questions are routed to a colleague. A Google Sheet controls draft, live and off modes, operating hours and escalation rules, while logging each original message for review.
+## Project link
+https://github.com/UU-XX/brewlab-support-bot
 
-The Python implementation includes persistent recovery state, bounded retries and explicit handling of uncertain delivery outcomes. The repository includes an offline demonstration and regression tests. Live demonstration media should be attached only after the Gmail and Sheets recording has been verified.
+## Media order and captions
+1. Cover: BrewLab — AI email support, with a human in control.
+2. English narrated video: 1 minute 51 seconds, real test screenshots.
+3. Three incoming emails, one reply draft.
+4. One draft covers price, currency and Canadian shipping.
+5. Human escalation with intent and needs-human labels.
+6. Internal handoff with the original email attached.
+7. Four audit rows: three pricing messages and one human request.
+8. Google Sheets configuration with processing set to off.
 
-## Skills
-
-Python; Gmail API; Google Sheets API; DeepSeek API; workflow automation.
-
-## Media captions
-
-- Three customer messages consolidated into one Gmail reply draft.
-- Human handoff with original messages attached.
-- A separate audit row for every source message.
-- Processing paused from the Google Sheets configuration panel.
-
-Use these captions only with matching verified screenshots. Remove the pending-recording sentence after the live evidence is available.
+## Presentation notes
+The video is a screenshot walkthrough, not a continuous live recording. The settings image shows off mode; it does not prove an interactive mode change. The sent handoff does not independently confirm recipient delivery. This is a fictional portfolio project, not paid client work. Do not claim measured business savings or production deployment. Review the role description before publishing so it accurately reflects your own involvement.
