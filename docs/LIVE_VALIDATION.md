@@ -19,5 +19,5 @@ The support mailbox contains one sent internal handoff message. Its original-mes
 - The initial three messages were classified as spam by Gmail and were moved to the inbox for this controlled test. An earlier empty test message was left untouched and excluded from the three-message demonstration.
 - No live-mode customer reply was sent during this session; live mode is covered by offline tests.
 - The Sheet was returned to `off` at the end of testing.
-- Six redacted real screenshots and an English narrated screenshot walkthrough are available in [the media gallery](MEDIA.md). The video is not continuous screen capture and does not show an interactive mode-switch sequence.
+- Six redacted real screenshots are available in [the media gallery](MEDIA.md). They do not show an interactive mode-switch sequence.
 - Raw evidence, mailbox identifiers, OAuth files and API keys remain private.

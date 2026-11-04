@@ -6,11 +6,11 @@ Turn a burst of customer emails into one reviewable reply. Keep human handoff, o
 
 [Recording guide](docs/DEMO.md) · [Setup guide](docs/SETUP.md) · [Test scenarios](tests/test_cases.md)
 
-**Portfolio demo:** [English video](docs/media/BrewLab-English-Demo-With-Cover.mp4) · [Screenshots](docs/MEDIA.md) · [Live validation](docs/LIVE_VALIDATION.md) · [Portfolio copy](docs/UPWORK.md)
+**Portfolio demo:** [Screenshots](docs/MEDIA.md) · [Live validation](docs/LIVE_VALIDATION.md) · [Portfolio copy](docs/UPWORK.md)
 
-![BrewLab video cover](docs/media/BrewLab-Video-Cover.jpg)
+![Three incoming emails, one draft](docs/media/01-three-emails-one-draft.png)
 
-**Evidence status:** controlled live Gmail, DeepSeek and Google Sheets testing produced one combined draft from three incoming messages, an internal handoff with the original email attached, and four audit rows. The 1 minute 51 second English video is a narrated walkthrough of real screenshots with private details redacted, not continuous screen capture. It shows the final off setting, not an interactive mode-switch sequence. No live-mode customer reply was sent, and recipient-side handoff delivery was not independently confirmed.
+**Evidence status:** controlled live Gmail, DeepSeek and Google Sheets testing produced one combined draft from three incoming messages, an internal handoff with the original email attached, and four audit rows. The screenshot gallery shows real test results with private details redacted, including the final off setting. It does not demonstrate an interactive mode-switch sequence. No live-mode customer reply was sent, and recipient-side handoff delivery was not independently confirmed.
 
 Verified locally on Python 3.12: **147 regression tests and 10 offline scenarios passed**. Automated tests use simulated providers; separate live validation is documented above. GitHub Actions has not been enabled for this release. No measured accuracy, time-saving or production-use claims are made.
 

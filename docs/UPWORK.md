@@ -15,15 +15,13 @@ Python; API Integration; Workflow Automation; Gmail API; Google Sheets.
 ## Project link
 https://github.com/UU-XX/brewlab-support-bot
 
-## Media order and captions
-1. Cover: BrewLab — AI email support, with a human in control.
-2. English narrated video: 1 minute 51 seconds, real test screenshots.
-3. Three incoming emails, one reply draft.
-4. One draft covers price, currency and Canadian shipping.
-5. Human escalation with intent and needs-human labels.
-6. Internal handoff with the original email attached.
-7. Four audit rows: three pricing messages and one human request.
-8. Google Sheets configuration with processing set to off.
+## Screenshot order and captions
+1. Three incoming emails, one reply draft.
+2. One draft covers price, currency and Canadian shipping.
+3. Human escalation with intent-handoff and needs-human labels.
+4. Internal handoff with the original email attached.
+5. Four audit rows: three pricing messages and one human request.
+6. Google Sheets configuration with processing set to off.
 
 ## Presentation notes
-The video is a screenshot walkthrough, not a continuous live recording. The settings image shows off mode; it does not prove an interactive mode change. The sent handoff does not independently confirm recipient delivery. This is a fictional portfolio project, not paid client work. Do not claim measured business savings or production deployment. Review the role description before publishing so it accurately reflects your own involvement.
+The settings image shows off mode; it does not prove an interactive mode change. The sent handoff does not independently confirm recipient delivery. This is a fictional portfolio project, not paid client work. Do not claim measured business savings or production deployment. Review the role description before publishing so it accurately reflects your own involvement.

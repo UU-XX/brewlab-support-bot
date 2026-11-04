@@ -2,7 +2,7 @@
 
 ## Evidence status
 
-Delivered media: [six real redacted screenshots and an English narrated walkthrough](MEDIA.md). The final video is 1 minute 51 seconds including its cover. It uses screenshots from controlled live testing, not continuous screen capture. See [validated results and limitations](LIVE_VALIDATION.md).
+Repository media: [six real redacted screenshots](MEDIA.md) from controlled live testing. See [validated results and limitations](LIVE_VALIDATION.md).
 
 The remaining sections are a reusable plan for a future continuous recording, not a description of footage already captured. Automated demonstrations use simulated providers and must be labeled **Offline simulation** if shown.
 

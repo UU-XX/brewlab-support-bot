@@ -1,12 +1,6 @@
-# Real Test Media
+# Real Test Screenshots
 
-[English narrated video](media/BrewLab-English-Demo-With-Cover.mp4) · [English subtitles](media/BrewLab-English-Demo-With-Cover.srt)
-
-Duration: 1 minute 51 seconds. Format: 1920 × 1080, H.264 with English narration and a three-second cover.
-
-These are real Gmail and Google Sheets screenshots from controlled testing on November 4, 2026. Private details are redacted. The video is a narrated screenshot walkthrough, not continuous screen capture. See [live validation](LIVE_VALIDATION.md) for the scope and limitations.
-
-![Video cover](media/BrewLab-Video-Cover.jpg)
+These are real Gmail and Google Sheets screenshots from controlled testing on November 4, 2026. Private details are redacted. See [live validation](LIVE_VALIDATION.md) for the scope and limitations.
 
 ## Three emails one draft
 
