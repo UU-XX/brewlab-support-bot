@@ -35,3 +35,4 @@ private/
 recordings/
 *.webm
 *.mp4
+!docs/media/BrewLab-English-Demo-With-Cover.mp4
