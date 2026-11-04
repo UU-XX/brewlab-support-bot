@@ -7,7 +7,7 @@ AI Email Support Bot | Gmail, DeepSeek & Google Sheets
 Python automation developer — workflow design, API integration and testing.
 
 ## Project description
-BrewLab is a fictional coffee-store demo built with Python, Gmail, DeepSeek and Google Sheets. It batches rapid follow-up emails into one knowledge-grounded draft, routes human requests with the original email attached, and logs each incoming message. A Sheet controls modes, schedules and escalation rules. Controlled live testing produced one draft from three emails, one internal handoff and four audit rows. Includes 147 regression tests, 10 offline scenarios and a redacted English screenshot walkthrough.
+BrewLab is a fictional coffee-store demo built with Python, Gmail, DeepSeek and Google Sheets. The provider is swappable (OpenAI / DeepSeek). It batches rapid follow-up emails into one knowledge-grounded draft, routes human requests with the original email attached, and logs each incoming message. A Sheet controls modes, schedules and escalation rules. Controlled live testing produced one draft from three emails, one internal handoff and four audit rows. Includes 147 regression tests, 10 offline scenarios and a redacted English screenshot walkthrough.
 
 ## Five skills
 Python; API Integration; Workflow Automation; Gmail API; Google Sheets.
